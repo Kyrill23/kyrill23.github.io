@@ -1,0 +1,28 @@
+.Name {
+padding: 10px;
+background-color: lightblue;
+text-align: center;
+border-radius: 40px;
+color: lightorange;
+}
+.text {
+padding: 5px;
+padding-bottom: 10px;
+padding-top: 10px;
+background-color: lightgreen;
+text-align: center;
+border-radius: 50px;
+margin: -5px;
+}
+.link
+{
+position: relative;
+top: 70px;
+color: black;
+background-color: orange;
+padding: 20px;
+color: white;
+border-radius: 30px;
+text-decoration: none;
+
+}
